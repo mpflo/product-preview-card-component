@@ -32,7 +32,7 @@ In this challenge, we have a box that on smaller screens is in one column, and o
 ### Links
 
 - Solution URL: [Project's repo](https://github.com/mpflo/product-preview-card-component)
-- Live Site URL: [Project's live site](https://your-live-site-url.com)
+- Live Site URL: [Project's live site](https://mpflo.github.io/product-preview-card-component/)
 
 ## My process
 
