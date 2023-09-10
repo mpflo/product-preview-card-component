@@ -22,10 +22,10 @@ In this challenge, we have a box that on smaller screens is in one column, and o
 
 ### Screenshot
 
-## Project on mobile
+#### Project on mobile
 ![](images/screenshot-mobile.png)
 
-## Project on mobile
+#### Project on mobile
 ![](images/screenshot-desktop.png)
 
 
